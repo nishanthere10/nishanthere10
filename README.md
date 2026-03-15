@@ -103,6 +103,14 @@ For me, development is more than writing lines of code. It's about **logic, smar
 
 ---
 
+# 🟡 Pacman Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nishanthere10/nishanthere10/output/pacman-contribution-graph.svg" />
+</p>
+
+---
+
 # 🚀 Projects
 
 Most of my work focuses on **building practical technology solutions** that solve real problems.
@@ -145,13 +153,13 @@ Because the best way to truly learn is by **building things that matter**.
 
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40"/>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40"/>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40"/>
 
 </div>
 
@@ -161,19 +169,11 @@ Because the best way to truly learn is by **building things that matter**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishanthere10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nishanthere10&show_icons=true&theme=dracula" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishanthere10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthere10&layout=compact&theme=dracula" height="150"/>
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/nishanthere10/nishanthere10/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
