@@ -1,24 +1,33 @@
-<!-- Header Animation -->
+<!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nishant%20%7C%20Full%20Stack%20Developer&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nishant&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<h2 align="left">
-Hi, I'm Nishant 👋
-</h2>
-
-I'm a developer who genuinely loves turning real-world problems into clean, scalable code. I focus on understanding challenges deeply and building systems that actually work in the real world — efficient, reliable, and ready to grow.
-
-For me, development is more than just writing lines. It's about logic, smart design, and solving things the right way.
-
-I spend most of my time building full-stack applications and experimenting with ideas that mix technology and practical problem-solving.
-
-*(And yes… a lot of that time also involves converting coffee into working features ☕ → 💻)*
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Systems+%26+DSA+Learner;GenAI+Enthusiast"/>
+</p>
 
 ---
 
-## 🚀 Skills & Abilities
+<h2 align="left">Hi, I'm Nishant 👋</h2>
+
+I'm a developer who genuinely loves turning real-world problems into **clean, scalable code**.
+I focus on understanding challenges deeply and building systems that actually work in the real world — efficient, reliable, and ready to grow.
+
+For me, development is more than just writing lines. It's about **logic, smart design, and solving problems the right way**.
+
+*(And yes… a lot of that time also involves converting coffee ☕ into working features.)*
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
+
+---
+
+# 🚀 Skills & Abilities
 
 **Problem Solving** – Breaking complex issues into clean solutions
 
@@ -34,13 +43,13 @@ I spend most of my time building full-stack applications and experimenting with 
 
 ---
 
-## 📌 Current Focus
+# 📌 Current Focus
 
 * Building scalable full-stack applications
 * Learning advanced system design concepts
 * Practicing **Data Structures and Algorithms (DSA)**
 * Developing real-world problem-solving projects
-* Exploring AI-powered systems
+* Exploring **Generative AI systems**
 
 ---
 
@@ -80,7 +89,7 @@ I spend most of my time building full-stack applications and experimenting with 
 
 # 🚀 Projects
 
-Most of my projects are built to solve **real-world problems using technology**.
+Most of my projects focus on **solving real-world problems using modern technology**.
 
 You'll find:
 
@@ -103,7 +112,7 @@ Because the best way to learn technology is by **building things that matter**.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/nishanthere10/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/nishanthere10/nishanthere10/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -111,7 +120,7 @@ Because the best way to learn technology is by **building things that matter**.
 # 💡 Developer Thoughts
 
 * I like solving problems more than collecting programming languages.
-* If code works on the first run, I immediately get suspicious.
+* If code works on the first run, I get suspicious.
 * Bugs are just **undocumented features**.
 * Good architecture saves more time than clever hacks.
 
