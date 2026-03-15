@@ -95,7 +95,7 @@ Because the best way to learn technology is by **building things that matter**.
 # 📈 3D Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanthere10&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ Because the best way to learn technology is by **building things that matter**.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/nishanthere10/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
