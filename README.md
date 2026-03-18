@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nishant%20Shetty&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<!-- Secondary Waving Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=header&text=Fullstack%20%7C%20Systems%20%26%20DSA%20%7C%20GenAI&fontSize=22&fontAlignY=35&animation=scaleIn&fontColor=ffffff"/>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Systems+%26+DSA+Learner;GenAI+Enthusiast"/>
 </p>
