@@ -103,7 +103,6 @@ For me, development is more than writing lines of code. It's about **logic, smar
 
 ---
 
-# 🟡 Pacman Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nishanthere10/nishanthere10/output/pacman-contribution-graph.svg" />
@@ -155,11 +154,6 @@ Because the best way to truly learn is by **building things that matter**.
 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40"/>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40"/>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40"/>
 
 </div>
 
