@@ -1,28 +1,34 @@
-<!-- HEADER - Main Waving Animation -->
+<!-- HEADER - Main Waving Animation & Profile Views -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Nishant%20Shetty&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishanthere10&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Systems+%26+DSA+Learner;GenAI+Enthusiast"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Systems+%26+DSA+Learner;GenAI+Enthusiast;Hardware+%26+IoT+Hacker"/>
 </p>
 
 ---
 
 <h2 align="left">Hi, I'm Nishant 👋</h2>
 
-I’m a full-stack developer who spends most of his time turning real-world problems into working code.  
-
-I like understanding the problem properly first, then building systems that are clean, scalable, and don’t explode when real users show up.  
-
-Between debugging, designing architecture, and grinding DSA, I also run a highly efficient coffee-to-code conversion pipeline ☕→💻.  
-*(Sometimes the coffee wins.)*
-
----
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <p>I’m a full-stack developer who spends most of his time turning real-world problems into working code. </p>
+        <p>I like understanding the problem properly first, then building systems that are clean, scalable, and don’t explode when real users show up. </p>
+        <p>Between debugging, designing architecture, and grinding DSA, I also run a highly efficient coffee-to-code conversion pipeline ☕→💻.<br><i>(Sometimes the coffee wins.)</i></p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" style="border-radius: 10px;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -33,49 +39,47 @@ Between debugging, designing architecture, and grinding DSA, I also run a highly
 - **Scalable Systems** — Building apps that can handle growth instead of crying in production 📈  
 - **Leadership** — Taking ideas and turning them into actual shipped products 👨‍💼  
 - **Communication** — Explaining tech stuff without making people regret asking ❓  
-- **Persistence** — I don’t quit until the bug surrenders 🏳️‍
+- **Persistence** — I don’t quit until the bug surrenders (or until the 24-hour hackathon ends) 🏳️‍
 
 ---
 
 # 📌 Current Focus
 
-- Building scalable full-stack applications  
-- Mastering advanced system design  
-- Grinding Data Structures and Algorithms (DSA)  
-- Shipping real-world problem-solving projects  
-- Exploring Generative AI systems 🤖
+- Building scalable full-stack applications with **Next.js 15** and **Tailwind CSS**. 
+- Mastering advanced system design and multi-agent GenAI workflows.  
+- Grinding Data Structures and Algorithms (DSA).  
+- Exploring hardware integration, IoT, and cybersecurity. 🤖
 
 ---
 
 # 🛠 Technologies I Work With
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,supabase,firebase,python,git,github,linux,kali,tailwind,vercel&perline=9&theme=dark" alt="My Skills" />
+  </a>
 </p>
+
+---
+
+# 🔭 Featured Projects
+
+*I mostly build practical full-stack apps, scalable backends, and the occasional GenAI experiment. Here are a few that magically started working at 3 AM:*
+
+<div align="center">
+  <!-- Replace 'SpaceScope' and 'AgroSeva' with your exact repo names if they differ -->
+  <a href="https://github.com/nishanthere10/SpaceScope">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanthere10&repo=SpaceScope&theme=dracula&hide_border=true&bg_color=0f2027" width="400" alt="SpaceScope Project Card"/>
+  </a>
+  <a href="https://github.com/nishanthere10/AgroSeva">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanthere10&repo=AgroSeva&theme=dracula&hide_border=true&bg_color=0f2027" width="400" alt="AgroSeva Project Card"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/nishanthere10/SafeBite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanthere10&repo=SafeBite&theme=dracula&hide_border=true&bg_color=0f2027" width="400" alt="SafeBite Project Card"/>
+  </a>
+</div>
 
 ---
 
@@ -91,41 +95,34 @@ Between debugging, designing architecture, and grinding DSA, I also run a highly
 
 ---
 
-# 🚀 Projects
-
-I mostly build practical full-stack apps, scalable backends, and the occasional GenAI experiment.  
-Some projects started as “just for fun” and ended up teaching me more than any course ever could.
-
-*(A few of them magically started working at 3 AM after excessive coffee consumption.)*
-
-Feel free to explore my pinned repos 👀
-
----
-
 # 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanthere10&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthere10&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanthere10&show_icons=true&theme=dracula&hide_border=true&bg_color=0f2027" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthere10&layout=compact&theme=dracula&hide_border=true&bg_color=0f2027" height="150" alt="Top Languages"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthere10&theme=dracula&hide_border=true&background=0f2027" alt="GitHub Streak" />
 </div>
 
 ---
 
 # 💡 Developer Thoughts
 
-- I like solving problems more than collecting programming languages  
+- I like solving problems more than collecting programming languages.  
 - If the code runs perfectly on the first try, I assume I’m in a simulation 🧐  
-- Bugs are just undocumented features in disguise  
-- Good architecture > clever hacks (always)  
+- Bugs are just undocumented features in disguise.  
+- Good architecture > clever hacks (always).  
 - My go-to debugging technique: stare at the screen until the code feels guilty 👀
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/nishantshetty10/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn"/>
   </a>
 </div>
 
