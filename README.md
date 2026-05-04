@@ -13,22 +13,18 @@
 
 ---
 
-<h2 align="left">Hi, I'm Nishant 👋</h2>
+<h2 align="center">Hi, I'm Nishant 👋</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <p>I’m a full-stack developer who spends most of his time turning real-world problems into working code. </p>
-        <p>I like understanding the problem properly first, then building systems that are clean, scalable, and don’t explode when real users show up. </p>
-        <p>Between debugging, designing architecture, and grinding DSA, I also run a highly efficient coffee-to-code conversion pipeline ☕→💻.<br><i>(Sometimes the coffee wins.)</i></p>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" style="border-radius: 10px;"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" style="border-radius: 10px;"/>
+</p>
+
+I’m a full-stack developer who spends most of his time turning real-world problems into working code. 
+
+I like understanding the problem properly first, then building systems that are clean, scalable, and don’t explode when real users show up. 
+
+Between debugging, designing architecture, and grinding DSA, I also run a highly efficient coffee-to-code conversion pipeline ☕→💻.  
+*(Sometimes the coffee wins.)*
 
 ---
 
@@ -56,8 +52,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,supabase,firebase,python,git,github,linux,kali,tailwind,vercel&perline=9&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,supabase,firebase,python,git,github,linux,tailwind&perline=8&theme=dark" alt="My Skills" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="LangGraph" />
 </p>
 
 ---
