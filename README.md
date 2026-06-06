@@ -19,14 +19,30 @@ Building scalable products, learning systems, and occasionally discovering bugs 
 
 ---
 
+## 📊 Core Engine Statistics & Activity
+
+<p align="center">
+  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Nishant's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+### 🕹️ Arcade Contribution Board
+<p align="center">
+  <!-- This displays an animated Pacman eating your contribution blocks. Replace YOUR_GITHUB_USERNAME -->
+  <img src="https://raw.githubusercontent.com/YOUR-GITHUB_USERNAME/YOUR-GITHUB_USERNAME/main/pacman.svg" alt="Pacman Contribution Eating Animation" width="100%" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 I’m a full-stack developer who enjoys turning vague ideas into working products.
 
 Most of my time goes into:
-- designing systems that survive real users,
-- building products end-to-end,
-- learning why production environments always choose violence.
+- Designing systems that survive real users,
+- Building products end-to-end,
+- Learning why production environments always choose violence.
 
 Current obsessions:
 - ⚡ Full-stack architecture
