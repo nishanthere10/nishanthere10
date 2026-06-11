@@ -1,40 +1,21 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Nishant%20Shetty&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
-</p>
+&lt;!-- HEADER --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Nishant%20Shetty&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+that+shouldn't+work+(but+do);Fullstack+Developer;Systems+%7C+DSA+%7C+GenAI;Coffee-powered+debugging+specialist"/>
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+that+shouldn't+work+(but+do);Fullstack+Developer;Systems+%7C+DSA+%7C+GenAI;Coffee-powered+debugging+specialist"/&gt;
+&lt;/p&gt;
 
 ---
 
-<h2 align="center">
+&lt;h2 align="center"&gt;
 Hey, I'm Nishant 👋
-</h2>
+&lt;/h2&gt;
 
-<p align="center">
+&lt;p align="center"&gt;
 Building scalable products, learning systems, and occasionally discovering bugs that nobody asked for.
-</p>
-
----
-
-## 📊 Core Engine Statistics & Activity
-
-<p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Nishant's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
-### 🕹️ Arcade Contribution Board
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+&lt;/p&gt;
 
 ---
 
@@ -55,8 +36,30 @@ Current obsessions:
 - ☕ Maintaining acceptable caffeine levels
 
 Fun fact:
-> My code usually works.  
-> The question is whether it was intentional.
+&gt; My code usually works.  
+&gt; The question is whether it was intentional.
+
+---
+
+## 📊 Core Engine Statistics & Activity
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=nishanthere10&show_icons=true&theme=tokyonight&rank_icon=github" alt="Nishant's GitHub Stats" height="180" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthere10&layout=compact&theme=tokyonight" alt="Top Languages" height="180" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthere10&theme=tokyonight&hide_border=true" alt="GitHub Streak" /&gt;
+&lt;/p&gt;
+
+### 🕹️ Arcade Contribution Board
+&lt;p align="center"&gt;
+  &lt;picture&gt;
+    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishanthere10/nishanthere10/output/pacman-contribution-graph-dark.svg"&gt;
+    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishanthere10/nishanthere10/output/pacman-contribution-graph.svg"&gt;
+    &lt;img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nishanthere10/nishanthere10/output/pacman-contribution-graph.svg"&gt;
+  &lt;/picture&gt;
+&lt;/p&gt;
 
 ---
 
@@ -74,13 +77,13 @@ LangChain • LangGraph • Python
 ### Tools
 Git • GitHub • Linux • Firebase
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,supabase,firebase,python,git,github,linux,tailwind&perline=8&theme=dark"/>
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,supabase,firebase,python,git,github,linux,tailwind&perline=8&theme=dark"/&gt;
+&lt;/p&gt;
 
 ---
 
-## 🔭 What I’m Building
+## 🔭 What I'm Building
 
 → Scalable full-stack applications  
 → Multi-agent GenAI systems  
@@ -96,7 +99,7 @@ Open to:
 ## 📌 Developer Operating System
 
 - Solve problems before choosing tools
-- Good architecture > clever hacks
+- Good architecture &gt; clever hacks
 - If debugging takes more than 2 hours → walk → return → instantly find typo
 - Ship first. Optimise later.
 - If it works first try → suspicious
