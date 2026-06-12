@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Nishant%20Shetty&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
 </p>
-rate this rate this GitHub repo out of 10 and tell me what changes can be made to this. 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+that+shouldn't+work+(but+do);Fullstack+Developer;Systems+%7C+DSA+%7C+GenAI;Coffee-powered+debugging+specialist"/>
 </p>
